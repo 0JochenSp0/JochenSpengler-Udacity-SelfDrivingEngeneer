@@ -19,7 +19,8 @@ random_crop_image --> default included
 --> I've did aditionally some changes at the learning rate, but this lead to a bad performance.
 
 ## Important files
-So In the attachments you can find the whole project, but important are:<br />
+### So In the attachments you can find the following files:<br />
+#### single files:
 -create_splits.py<br />
--pipeline_new_v3<br />
--Neuronal Net V3
+#### the experiment folder:<br/>
+with the NN of V3
