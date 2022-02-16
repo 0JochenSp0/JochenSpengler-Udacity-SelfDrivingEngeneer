@@ -23,4 +23,5 @@ random_crop_image --> default included
 #### single files:
 -create_splits.py<br />
 #### the experiment folder:<br/>
-with the NN of V3
+containing the different .config files
+pipeline_new_v3 shows the best result
